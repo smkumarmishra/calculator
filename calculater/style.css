@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#calculater{
+    border:solid 4px black;
+    border-radius: 5px;
+    width: 250px;
+    margin: auto;
+    background-color: #8AE1B4;
+    
+   
+}
+#display{
+    margin: 10px;
+    width:85%;
+    padding: 6px;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 900;
+}
+.button{
+    background-color: whitesmoke;
+    width: 57px;
+    height: 50px;
+    margin: 3px;
+    font-weight: 700;
+}
+.button_container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+body{
+    background-color: #E2A9FD;
+    
+    
+   
+}
+#cal{
+    text-align: center;
+    color: #8AE1B4;
+}
